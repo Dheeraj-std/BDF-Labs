@@ -194,9 +194,20 @@ The repository should be public or shared with the faculty. Do not commit `node_
 
 ## Deployment
 
-The project has not been deployed yet. After deployment, add the public URL here and test all endpoints.
+## Deployment
 
-If deployment is not possible, explain the reason and include Postman screenshots of every endpoint.
+The project was successfully deployed on Render.
+
+**Live URL:** https://bdf-labs-hya3.onrender.com/
+
+The following endpoints were tested:
+
+- `/` – Displays the welcome message.
+- `/about` – Returns student details in JSON format.
+- `/time` – Returns the current server date and time.
+- `/anything` – Returns a 404 Page Not Found response for unknown routes.
+
+
 
 ## Notes / problems faced
 
