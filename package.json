@@ -1,0 +1,21 @@
+{
+  "name": "bdf-lab-01-node-express-server",
+  "version": "1.0.0",
+  "description": "BDF Lab 01 - Node.js and Express server fundamentals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:http": "node server-http.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "backend-development",
+    "bdf-lab-01"
+  ],
+  "author": "YOUR_NAME",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
