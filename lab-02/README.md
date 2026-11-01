@@ -10,7 +10,7 @@
 **Status:**this project currently runs locally using Node.js, Express.js, and SQLite.
 
 Local URL: `http://localhost:3000`
-Live URL:`https://bdf-labs-1-bedw.onrender.com`
+Live URL:https://bdf-labs-1-bedw.onrender.com
 ## Objective
 
 To connect an Express.js server to an SQLite database and implement REST API endpoints for creating, reading, updating, and deleting book records.
