@@ -172,6 +172,13 @@ Price filtering:
 
 ![Invalid Pagination](screenshots/14-invalid-pagination.png)
 
+
+## Live Deployment
+
+**Render URL:** https://bdf-labs-3-zs6i.onrender.com/
+
+**Books API:** https://bdf-labs-3-zs6i.onrender.com/books
+
 ## Conclusion
 
 In this lab, I developed a RESTful API using Node.js, Express.js and SQLite. I implemented CRUD operations, search, sorting, pagination and price range filtering. I also practised input validation, handling errors and returning appropriate HTTP status codes.
